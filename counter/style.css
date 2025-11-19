@@ -1,0 +1,14 @@
+body {
+
+    background-color: rgb(122, 122, 122);
+
+
+}
+
+.button1 {
+display: flex;
+justify-content: center;
+align-items: center;
+ height: 100vh;          
+        width: 100%;     
+}
